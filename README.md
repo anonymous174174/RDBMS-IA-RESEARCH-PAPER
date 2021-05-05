@@ -8,4 +8,4 @@ TOPIC - A Comparison of Machine Learning Methods Using a Two Player Board Game<b
 FACULTY - Prof. Vaibhav Vasani, Prof. Pradnya Bhangale<br>
 COLLEGE - K. J. SOMAIYA COLLEGE OF ENGINEERING<br>
 ## Execution-<br>
-Code can be executed through Jupyter Notebook(files have been provided)<br>
+Code can be executed through Jupyter Notebook and Google Colab(files have been provided)<br>
